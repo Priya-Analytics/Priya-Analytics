@@ -35,5 +35,6 @@ Currently building a strong foundation in **SQL**, **data analysis**, and **busi
 ---
 
 ## 📫 Connect with Me
+
 - GitHub: https://github.com/Priya-Analytics
-- LinkedIn: (add later)
+
