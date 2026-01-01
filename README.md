@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Priya 👋  
 
-<!--
-**Priya-Analytics/Priya-Analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst | SQL • Python • Data Visualization  
 
-Here are some ideas to get you started:
+I am a passionate **Data Analyst** focused on turning raw data into meaningful insights.  
+Currently building a strong foundation in **SQL**, **data analysis**, and **business problem solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+- SQL (MySQL, Subqueries, Joins, Aggregations)
+- Data Analysis & Reporting
+- Business Problem Solving
+- Excel (Basic–Advanced)
+- Learning Python for Data Analysis
+
+---
+
+## 📂 Featured Projects
+🔹 **SQL Data Analyst Portfolio**  
+👉 [sql-data-analyst-portfolio](https://github.com/Priya-Analytics/sql-data-analyst-portfolio)
+
+- Real-world business queries  
+- Interview-style SQL problems  
+- Northwind dataset (W3Schools)  
+- Basic → Advanced SQL (in progress)
+
+---
+
+## 🎯 Current Focus
+- Daily SQL practice
+- Subqueries & Joins mastery
+- Building recruiter-ready projects
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/Priya-Analytics
+- LinkedIn: (add later)
